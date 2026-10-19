@@ -7,22 +7,27 @@
   <main class="container">
     <section class="hero" aria-labelledby="page-title">
       <h1 id="page-title">
-        Ich <span class="title-highlight">brauche Urlaub</span>
+        AMAZON <span class="title-highlight">4 U</span>
       </h1>
 
       <p class="tagline">
-       Dringende Unterstützung erforderlich: Systemseitig blockierter Resturlaub (17 Tage) / Drohender Verfall
+     Ready to explore the world of Amazon selling in Germany?
+
+Whether you're starting from scratch or planning your next big move, AMAZON 4 U helps you navigate the essentials — from finding product opportunities and understanding FBA to calculating fees and avoiding costly beginner mistakes.
+
       </p>
+
+      <h3>Your idea. Your ambition. Your next opportunity.</h3>
 
       <img
         class="avatar"
-        src="/urlaub.png"
-        alt="Portrait of Lorelyn"
+        src="/jeff.png"
+        alt="Jeff Bezos"
         width="210"
         height="210"
       />
 
-      <p class="status-badge" aria-label="Lorelyn is available to chat">
+      <p class="status-badge" aria-label="Jeff is available to chat">
         <span aria-hidden="true">●</span>
        online
       </p>
@@ -37,35 +42,39 @@
       <span class="disclosure-icon" aria-hidden="true">✦</span>
 
       <p>
-        Hier ist ein präziser und rechtlich fundierter Entwurf, 
-        den Sie direkt an den Betriebsrat senden oder als Vorlage
-        für Ihr Anschreiben nutzen können. 
-        Der Fokus liegt hierbei gezielt auf der Dringlichkeit 
-        aufgrund drohender Verfallsfristen und 
-        der Vermeidung finanzieller oder rechtlicher Nachteile für Sie:
+        Fulfillment by Amazon (FBA) is a service that lets sellers outsource their entire order fulfillment
+process to Amazon. Instead of packing and shipping products yourself, Amazon handles everything:
       </p>
     </aside>
 
     <section class="about-section" aria-labelledby="about-heading">
-      <h2 id="about-heading">Deutsches Arbeitsrecht</h2>
+      <h2 id="about-heading">Amazon New Seller Incentives: Unlock Your Potential 🚀</h2>
 
-      <p>
-       Das deutsche Arbeitsrecht schützt Arbeitnehmer durch klare Regelungen 
-       zu Kündigungsschutz, Mindestlohn, Arbeitszeiten, Urlaub und 
-       Entgeltfortzahlung im Krankheitsfall. 
-       Es sichert faire Arbeitsbedingungen, 
-       schützt vor Diskriminierung und 
-       stärkt die Mitbestimmungsrechte der 
-       Beschäftigten. Arbeitnehmer haben Rechte, 
-       die ihre Würde, Gesundheit und finanzielle Sicherheit
-        im Berufsleben gewährleisten.
-      </p>
+<p>
+  Ready to grow your Amazon business? Eligible new sellers can unlock
+  incentives worth up to €47,250. This is the maximum potential value,
+  not a guaranteed payout. Benefits are earned progressively by completing
+  qualifying actions and meeting Amazon's eligibility requirements.
+</p>
+
+<p>
+  The biggest opportunity is the <strong>New Brand Bonus</strong>, which
+  accounts for the majority of the potential value and requires enrolment
+  in Amazon Brand Registry.
+</p>
+
+<p>
+  <strong>Start smart. Build your brand. Maximize your eligible benefits.</strong>
+</p>
 
       <div class="topic-list" aria-label="Suggested discussion topics">
-        <span>BAG Urteile </span>
-        <span>EuGH Urteile</span>
-        <span>Urlaubsverfall</span>
-        <span>Rechte und Pflichten</span>
+        <span>Amazon Entry Strategy</span>
+        
+        <span>Brand</span>
+        <span>Entry Strategy</span>
+        <span>Flat file</span>
+        <span>The Complete
+History of Amazon</span>
       </div>
     </section>
   </main>
@@ -116,15 +125,15 @@
     background:
       radial-gradient(
         circle at 12% 8%,
-        rgba(76, 201, 240, 0.12),
+        rgba(223, 239, 243, 0.12),
         transparent 32rem
       ),
       radial-gradient(
         circle at 90% 88%,
-        rgba(59, 130, 246, 0.14),
+        rgba(217, 225, 238, 0.14),
         transparent 35rem
       ),
-      linear-gradient(135deg, #171523 0%, #111827 48%, #0d1b2e 100%);
+      linear-gradient(135deg, #6951d4 0%, #3466d1 48%, #45699b 100%);
   }
 
   

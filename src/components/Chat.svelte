@@ -176,20 +176,20 @@
 
 <div class="chat-wrapper">
   <div class="chat-header">
-    <h2>💬 Chatte mit Kim</h2>
+    <h2>💬 Chat</h2>
     <div class="header-actions">
       <button class="save-share-btn" onclick={saveAndShare} disabled={messages.length === 0 || loading}>
         <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"></path><polyline points="16 6 12 2 8 6"></polyline><line x1="12" y1="2" x2="12" y2="15"></line></svg>
-        Speichern & Teilen
+        Save & Share
       </button>
-      <button class="new-chat-btn" onclick={newChat} disabled={loading}>Neuer Chat</button>
+      <button class="new-chat-btn" onclick={newChat} disabled={loading}>New Chat</button>
     </div>
   </div>
 
   <div class="chat-messages" bind:this={chatContainer}>
     {#if messages.length === 0}
       <div class="empty-state">
-        <p>👋 <strong>Hallo! Ich bin Kim.</strong><br />Haben Sie Fragen zu Urlaubsverfall, Fristen oder Urteilen von BAG &amp; EuGH? Schreiben Sie mir einfach.</p>
+        <p>👋 <strong>💬 Meet Jeff, your AI-powered guide to the Amazon marketplace. Ask questions, explore strategies, and take the guesswork out of your first steps.</strong><br />Start smart. Learn as you go. Build with confidence.</p>
       </div>
     {/if}
 
